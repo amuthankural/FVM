@@ -3,6 +3,7 @@ FVM implementation of 1-dimensional steady state diffusion.
 Govering equation:
 	div( tau grad(phi)) + S(phi) = 0
 	
-where, 	phi	= Diffused property
-	tau	= Diffusion coeffcient
-	S	= Source term
+where, 	
++ phi	= Diffused property
+ + tau	= Diffusion coeffcient
+  + S	= Source term
