@@ -1,5 +1,6 @@
 # FVM - 1D_SteadyState_Diffusion
-FVM implementation of 1-dimensional steady state diffusion.
+FVM implementation of 1-dimensional steady-state diffusion.
+
 Govering equation:
 	div( τ grad(φ)) + S(φ) = 0
 	
